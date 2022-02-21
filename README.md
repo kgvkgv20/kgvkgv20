@@ -2,7 +2,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kgvkgv20&show_icons=true&locale=en" alt="kgvkgv20" /></p>
 <br />
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kgvkgv20&show_icons=true&locale=en&layout=compact" alt="kgvkgv20" />
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kgvkgv20&layout=compact&langs_count=6&theme=react&count_private=true&include_all_commits=true"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirathawat&layout=compact&langs_count=8&count_private=true&include_all_commits=true" alt="kgvkgv20's Most Used Languages" />
+ </picture>
 
 
 <!--
