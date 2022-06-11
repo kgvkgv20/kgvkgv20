@@ -1,5 +1,10 @@
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kgvkgv20&show_icons=true&locale=en" alt="kgvkgv20" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgvkgv20&show_icons=true&theme=tokyonight)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgvkgv20&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![](https://visitor-badge.glitch.me/badge?page_id=kgvkgv20.kgvkgv20&style=flat-square&color=0088cc)
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kgvkgv20&show_icons=true&locale=en" alt="kgvkgv20" /></p> -->
 <!--
 **kgvkgv20/kgvkgv20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
